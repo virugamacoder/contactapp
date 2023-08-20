@@ -10,8 +10,9 @@ Visit the live project: [Virugama Contact App](https://virugama-contact-app.web.
 
 - [Features](#features)
 - [Getting Started](#getting-started)
-- [Installation](#installation)
-- [Usage](#usage)
+  - [Installation](#installation)
+  - [Firebase Setup](#firebase-setup)
+  - [Usage](#usage)
 - [Contributing](#contributing)
 
 ## Features ✨
@@ -34,11 +35,29 @@ To get started with the Virugama Contact App, follow the steps below:
 
 3. Install dependencies:
 
+
+### Firebase Setup 🔥
+
+1. Create a Firebase project: [Firebase Console](https://console.firebase.google.com/)
+2. Add a web app to your project.
+3. Copy the Firebase configuration object from the project settings.
+4. Open `src/utils/config.js` in your project and replace the `firebaseConfig` with your Firebase configuration.
+
+
 ## Usage 📋
 
 1. Run the development server:
 
 2. Open your web browser and visit http://localhost:3000 to use the app. 🌐
+
+## Add Your Contact Details 📬
+
+Want to add your contact details to the Virugama Contact App? Follow these steps:
+
+1. Visit the [Live Project](https://virugama-contact-app.web.app/) 🌐
+2. Click on the "Add Contact" button to enter your contact information.
+3. Fill in your name, email, phone number, and address.
+4. Click the "Add Contact" button to save your details and manage your contacts!
 
 ## Contributing 🤝
 
