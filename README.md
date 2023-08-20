@@ -9,7 +9,6 @@ A simple contact management application built using React.js. Manage your contac
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features ✨
 
