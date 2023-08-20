@@ -2,6 +2,10 @@
 
 A simple contact management application built using React.js. Manage your contacts, add, update, and delete them easily. Integrated with Firebase Realtime Database for data storage. 🚀
 
+## Live Project 🌟
+
+Visit the live project: [Virugama Contact App](https://virugama-contact-app.web.app/) 🚀
+
 ## Table of Contents
 
 - [Features](#features)
